@@ -9,8 +9,10 @@ group = 'org.iplacex.proyectos'
 version = '1'
 
 java {
-	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
 	}
 }
 
