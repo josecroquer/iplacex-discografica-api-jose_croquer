@@ -1,0 +1,5 @@
+spring.application.name=discografia
+
+# Configuración conexión a clúster
+spring.data.mongodb.uri=mongodb+srv://josecroquer_db_user:tito12345670@cluster-spring.vukoe09.mongodb.net/?appName=cluster-spring
+spring.data.mongodb.database=discografica-db
